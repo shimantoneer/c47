@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: http://listverse.com/2018/05/26/10-strange-facts-about-historical-figures/");
 die();
 ?>
